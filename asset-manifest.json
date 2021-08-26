@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fluffy-pancake/static/css/main.e16032d7.chunk.css",
+    "main.js": "/fluffy-pancake/static/js/main.a13a65a7.chunk.js",
+    "main.js.map": "/fluffy-pancake/static/js/main.a13a65a7.chunk.js.map",
+    "runtime-main.js": "/fluffy-pancake/static/js/runtime-main.c3666c8e.js",
+    "runtime-main.js.map": "/fluffy-pancake/static/js/runtime-main.c3666c8e.js.map",
+    "static/js/2.734e6852.chunk.js": "/fluffy-pancake/static/js/2.734e6852.chunk.js",
+    "static/js/2.734e6852.chunk.js.map": "/fluffy-pancake/static/js/2.734e6852.chunk.js.map",
+    "index.html": "/fluffy-pancake/index.html",
+    "precache-manifest.e574ff092861c36104fc1837bb0b05f3.js": "/fluffy-pancake/precache-manifest.e574ff092861c36104fc1837bb0b05f3.js",
+    "service-worker.js": "/fluffy-pancake/service-worker.js",
+    "static/css/main.e16032d7.chunk.css.map": "/fluffy-pancake/static/css/main.e16032d7.chunk.css.map",
+    "static/js/2.734e6852.chunk.js.LICENSE.txt": "/fluffy-pancake/static/js/2.734e6852.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/fluffy-pancake/static/media/resume.665544b9.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3666c8e.js",
+    "static/js/2.734e6852.chunk.js",
+    "static/css/main.e16032d7.chunk.css",
+    "static/js/main.a13a65a7.chunk.js"
+  ]
+}
